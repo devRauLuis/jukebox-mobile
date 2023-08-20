@@ -1,16 +1,16 @@
-# mobile
+# Jukebox Mobile
 
-A new Flutter project.
+## Overview
+Jukebox Mobile is a cross-platform mobile application for the Distributed Jukebox System, a cohesive music management system that spans across web, macOS, mobile, and backend platforms. Built with Flutter, this component provides users with the ability to add their preferred songs to the queue from an available list.
 
-## Getting Started
+## Setup and Installation
 
-This project is a starting point for a Flutter application.
+1. **Environment Setup**: Ensure you have Flutter SDK installed.
+2. **Clone the Repository**: `git clone https://github.com/devRauLuis/jukebox-mobile.git`
+3. **Navigate to the Project Directory**: `cd jukebox-mobile`
+4. **Install Dependencies**: `flutter pub get`
+5. **Run the Application**: `flutter run`
 
-A few resources to get you started if this is your first Flutter project:
+## License
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project is licensed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html).
